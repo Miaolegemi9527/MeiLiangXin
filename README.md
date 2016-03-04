@@ -9,5 +9,6 @@ Voice
 
 ![Image](https://raw.githubusercontent.com/Miaolegemi9527/MarkdownPhotos/master/MeiLiangXin/MLXVoice.gif)
 
+Other
 
 ![Image](https://raw.githubusercontent.com/Miaolegemi9527/MarkdownPhotos/master/MeiLiangXin/MLXWeather.png)![Image](https://raw.githubusercontent.com/Miaolegemi9527/MarkdownPhotos/master/MeiLiangXin/MLXVoice2.png)
